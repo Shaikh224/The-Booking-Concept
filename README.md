@@ -2,6 +2,7 @@
 
 This Project is about airline booking sytem with a robust recommendtaion and user experiance.
 
+Built on VITE+React and Tailwind.
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
